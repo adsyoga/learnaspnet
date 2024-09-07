@@ -3,4 +3,4 @@ layout: null
 permalink: /ads.txt
 ---
 
-google.com, pub-2446392180502199, DIRECT, f08c47fec0942fa0
+google.com, pub-2884555402353266, DIRECT, f08c47fec0942fa0
